@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jenny</h1>
 <img align="right" alt="Homer finding 'any key'" width="400" src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif">
 
+- 🔭 I’m currently creating a 3D and interactive weather app [react-weather-app](https://github.com/jennyngu/react-weather-app)
+  
 - 🌱 I’m currently learning **React Native, Three.js**
 
 - 👨‍💻 Love working on **Web, App and Game Development**
